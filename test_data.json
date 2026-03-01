@@ -1,0 +1,23 @@
+{
+  "user_agent": "",
+  "token": "---TOKEN---",
+  "content_type": "application/json",
+  "search_phrase_negative": [
+    "Лексико-фразеологические. вежливые, приветливые слова.",
+    "+:%",
+    "ц"
+  ],
+  "search_phrase_positive": [
+    "Шекспир",
+    "хоррор",
+    " Горе  от   ума",
+    "1984"
+  ],
+  "number_phone_invalid": [
+    "28888888",
+    "урееко",
+    "54",
+    4665,
+    "№;%/"  
+  ]
+}
